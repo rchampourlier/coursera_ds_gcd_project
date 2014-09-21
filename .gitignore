@@ -1,0 +1,4 @@
+*.DS_Store
+UCI_HAR_Dataset/test
+UCI_HAR_dataset/train
+
